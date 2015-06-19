@@ -16,6 +16,7 @@ a {
 	padding-top: 8px;
 	-webkit-transition: 0.2s;
 	position: relative;
+    color: #FF6699;
 }
 
 
@@ -26,7 +27,7 @@ a:after {
 	left: 0;
 	width: 0;
 	height: 2px;
-	background: #DA5326;
+	background: #33CCCC;
 	-webkit-transition: 0.2s;
 	-moz-transition: 0.2s;
 	-ms-transition: 0.2s;
@@ -38,4 +39,3 @@ a:after {
 a:hover:after{
 	width: 100%;
 }
-
